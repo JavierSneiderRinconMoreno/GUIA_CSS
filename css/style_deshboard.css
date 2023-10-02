@@ -1,4 +1,4 @@
-.logo{
+.icono{
     display: flex;
     color:chartreuse;
 
@@ -23,15 +23,9 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 5px;
     border-spacing: 50px;
-
     width: 500px;
-
     margin-left: auto;
-
-    margin-right: auto;
-    
-
-    
+    margin-right: auto;      
 }
 
 button{

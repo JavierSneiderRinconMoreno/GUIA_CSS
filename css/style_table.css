@@ -1,0 +1,38 @@
+body{
+    background-color: #eb3ec0;    
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid rgb(34, 64, 199);
+    text-align: center;
+    background-color :rgba(0, 0, 0, 0.5);
+    
+border: 1px solid black;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #E0DADA;
+    
+border: 1px solid black;
+}
+
+form{
+    
+    background-color:#8a5e5e  ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 2px;
+    padding: 5px;
+    
+}
+input[type="text"],
+input[type="email"]{
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
